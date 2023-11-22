@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hola, soy Carlos Sanchez 👋
 
 Soy un desarrollador full-stack con experiencia en la creación de soluciones web y móviles robustas y de alto rendimiento. Especializado en HTML, CSS, JavaScript y Vue.js, me apasiona construir interfaces de usuario intuitivas y experiencias de usuario atractivas. Con un profundo conocimiento de C#, SQL Server, MySQL y Blazor, he desarrollado aplicaciones backend escalables y APIs eficientes que impulsan aplicaciones complejas.
