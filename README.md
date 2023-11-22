@@ -10,7 +10,7 @@ Mis habilidades en la creación y consumo de APIs RESTful y mi familiaridad con 
 
 ## Contacto y Redes
 
-- **LinkedIn**: [https://www.linkedin.com/in/csanchezdu/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/csanchezdu/](#https://www.linkedin.com/in/csanchezdu/)
 - **Correo**: [carlos.sanchez.despero@gmail.com](mailto:carlos.sanchez.despero@gmail.com)
 
 ## Habilidades y Tecnologías
