@@ -6,8 +6,6 @@ En el desarrollo móvil, mi experiencia se extiende al uso de MAUI C# para crear
 
 Mis habilidades en la creación y consumo de APIs RESTful y mi familiaridad con patrones de diseño modernos me permiten abordar problemas complejos con soluciones claras y mantenibles. Estoy constantemente explorando nuevas tecnologías y técnicas para mejorar la calidad y la eficiencia del desarrollo de software.
 
-🔍 **Actualmente buscando oportunidades que desafíen mi conocimiento técnico y permitan contribuir a soluciones innovadoras. Si estás buscando un desarrollador que pueda convertir ideas complejas en software de alta calidad, ¡hablemos!**
-
 ## Contacto y Redes
 
 - **LinkedIn**: [https://www.linkedin.com/in/csanchezdu/](#https://www.linkedin.com/in/csanchezdu/)
